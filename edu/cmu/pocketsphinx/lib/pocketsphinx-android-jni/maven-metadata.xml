@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>edu.cmu.pocketsphinx.lib</groupId>
+  <artifactId>pocketsphinx-android-jni</artifactId>
+  <version>0.8.6</version>
+  <versioning>
+    <versions>
+      <version>0.8.6</version>
+    </versions>
+    <lastUpdated>20141220190432</lastUpdated>
+  </versioning>
+</metadata>
